@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit"
+  short_description: "生成规范 Git 提交信息并提交代码"
+  default_prompt: "Use $commit to analyze staged changes and create a 规范化 Git 提交."
