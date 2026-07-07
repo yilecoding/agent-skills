@@ -1,0 +1,4 @@
+interface:
+  display_name: "Route Work Summary"
+  short_description: "把项目、账号、生活和知识资料归档到正确笔记位置"
+  default_prompt: "Use $route-work-summary to route this information into the right knowledge vault note."
